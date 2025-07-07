@@ -1,0 +1,7 @@
+#wrap{background-color: #ddd; width: 500px; margin: 0 auto; text-align: center; padding: 10px;}
+#wrap main{
+  width: 100%;
+}
+#wrap h1{font-size: 1.2rem;}
+#wrap p{width: 100%;}
+#wrap p img{width: 100%;}
